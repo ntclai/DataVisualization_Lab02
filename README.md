@@ -1,7 +1,7 @@
 ## VNUHCM - University of Science | CSC10108 – TRỰC QUAN HÓA DỮ LIỆU
 ### LAB-02: LÀM VIỆC VÀ TRỰC QUAN HÓA DỮ LIỆU CHUỖI THỜI GIAN
 
-#### Group 22
+#### Thành viên | Group 22
 
 20120128 - Nguyễn Thị Cẩm Lai (Nhóm trưởng)
 
